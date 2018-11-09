@@ -2,4 +2,6 @@
 
 install express-session, 
 connect-mongodb-session
-csurf
+csurf,
+connect-flash,
+brcyptjs
